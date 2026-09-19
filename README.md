@@ -11,7 +11,7 @@ Organizzati per **argomento**, non per classe/sezione:
 - `tecnico-economico/` — database e MS Access, Excel avanzato
 - `liceo/` — array e cicli, funzioni e ricorsione, puntatori/struct/liste (C++)
 
-Ogni file è materiale originale (lezione pratica + esercizi + una
-breve verifica di esempio), pensato per essere generico e riutilizzabile
-— non contiene nomi di studenti, non fa riferimento a nessun istituto
-scolastico specifico.
+Ogni PDF è materiale originale (schema visivo, codice di esempio dove
+pertinente, esercizi pratici e una breve verifica con traccia originale),
+pensato per essere generico e riutilizzabile — non contiene nomi di
+studenti, non fa riferimento a nessun istituto scolastico specifico.
